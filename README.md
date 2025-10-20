@@ -1,9 +1,10 @@
 # 👨‍💻About Me:
 Full-stack software engineer with a background in front-end development and a passion for building beautiful and functional web  applications. Strong experience in using technologies such as React, and Vue.js, and integrating with back-end systems using Node.js . Constantly learning new technologies and best practices to improve my skills and deliver better products. Committed to delivering clean, maintainable, and well-documented code.
+###### [Second Github](https://github.com/tibyishaka/) associated with my university [African Leadership University](https://www.alueducation.com/)
 
 ## Here's a quick summary about me:
 
-- 😊 Pronouns: He.him
+- 😊 Pronouns: He/him
 - 💡 Fun fact: I'm a cybersecurity enthusiast and book nerd.
 - 🌱 I’m proficient in working with React/Js, JavaScript(ES6), Nodejs, Typescript, Redux, TailwindCSS,Python and Git to build excellent and scalable software applications.
 - 😊 I’m open to work on open source projects, low-level,mid-level or senior opportunities.
